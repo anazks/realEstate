@@ -11,13 +11,11 @@
     "debug": "~2.6.9",
     "express": "~4.16.1",
     "express-fileupload": "^1.4.0",
-<<<<<<< HEAD
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
     "mongoose": "^7.0.3",
     "morgan": "~1.9.1",
-    "nodemon": "^2.0.22"
-=======
+    "nodemon": "^2.0.22",
     "express-session": "^1.17.3",
     "fs": "^0.0.1-security",
     "hbs": "~4.0.4",
@@ -28,6 +26,5 @@
     "nodemon": "^2.0.22",
     "pdfkit": "^0.13.0",
     "razorpay": "^2.8.6"
->>>>>>> bea19390f32aab12d0f21e3cef5c2835d6501ba9
   }
 }
